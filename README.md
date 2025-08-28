@@ -19,11 +19,6 @@ I'm a passionate Data Scientist specializing in machine learning, data analysis,
 -Breast-Cancer-Wisconsin-Diagnostic-Dataset
 
 
----
-
-## 📫 Contact Me
-- Email: alexsiakab24@gmail.com
-- LinkedIn: [linkedin.com/in/alexandra-siakavella](https://linkedin.com/in/alexandra-siakavella)
 
 ---
 
