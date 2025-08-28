@@ -20,7 +20,7 @@ I'm a passionate Data Scientist specializing in machine learning, data analysis,
 ---
 
 ## 📫 Contact Me
-- Email: your.email@example.com
+- Email: alexsiakab24@gmail.com
 - LinkedIn: [linkedin.com/in/alexandra-siakavella](https://linkedin.com/in/alexandra-siakavella)
 
 ---
