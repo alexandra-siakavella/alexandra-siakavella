@@ -17,6 +17,8 @@ I'm a passionate Data Scientist specializing in machine learning, data analysis,
 ## 📂 Projects
 -customer-churn-prediction-for-titanic-data
 -Breast-Cancer-Wisconsin-Diagnostic-Dataset
+-nlp-sentiment-analysisnlp-sentiment-analysis
+
 
 
 
