@@ -15,7 +15,9 @@ I'm a passionate Data Scientist specializing in machine learning, data analysis,
 ---
 
 ## 📂 Projects
-customer-churn-prediction-for-titanic-data
+-customer-churn-prediction-for-titanic-data
+-Breast-Cancer-Wisconsin-Diagnostic-Dataset
+
 
 ---
 
@@ -26,4 +28,4 @@ customer-churn-prediction-for-titanic-data
 ---
 
 ## ⚡ Fun Fact
-I love hiking and photography!
+I love hiking, running and photography!
