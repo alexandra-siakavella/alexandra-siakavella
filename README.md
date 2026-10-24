@@ -1,6 +1,4 @@
-
-
-<h1 align="center">Alexandra Siakavella</h1>
+# Alexandra Siakavella
 
 <h3 align="center">💜 DATA ENGINEER · ANALYTICS ENGINEER</h3>
 
@@ -13,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-alexandra--siakavella-171923?style=for-the-badge&logo=github&logoColor=C084FC" alt="GitHub profile" />
   </a>
   <a href="https://github.com/alexandra-siakavella/stockholm-mobility-intelligence">
-    <img src="https://img.shields.io/badge/Featured_Project-Stockholm_Mobility-9B5DE5?style=for-the-badge&logo=github&logoColor=white" alt="Featured project" />
+    <img src="https://img.shields.io/badge/Featured_Project-Stockholm_Mobility-9B5DE5?style=for-the-badge&logo=github&logoColor=white" alt="Stockholm Mobility Intelligence" />
   </a>
 </p>
 
@@ -35,7 +33,7 @@
   <tr>
     <td width="50%">
       <h3>◈ Applied AI</h3>
-      Machine learning, LLM-based information extraction, and output validation.
+      Machine learning, LLM-based information extraction, and validation of outputs.
     </td>
     <td width="50%">
       <h3>⌘ Engineering Practices</h3>
@@ -44,27 +42,48 @@
   </tr>
 </table>
 
-## 💜 FEATURED PROJECT
+---
 
-### Stockholm Mobility Intelligence
+## 💜 FEATURED PROJECTS
 
-An end-to-end portfolio project exploring public transport data, data ingestion, data-quality validation, dataset preparation, and delay prediction.
+### 🚇 Stockholm Mobility Intelligence
 
-<p>
-  <a href="https://github.com/alexandra-siakavella/stockholm-mobility-intelligence">
-    <img src="https://img.shields.io/badge/Explore_Repository-9B5DE5?style=for-the-badge&logo=github&logoColor=white" alt="Explore repository" />
-  </a>
-</p>
+An end-to-end data engineering and machine learning project exploring public transport data, ingestion, data-quality validation, dataset preparation, and delay prediction.
 
 **Technologies**
 
-![Python](https://img.shields.io/badge/Python-171923?style=flat&logo=python&logoColor=C084FC)
-![SQL](https://img.shields.io/badge/SQL-171923?style=flat&logo=postgresql&logoColor=C084FC)
-![dbt](https://img.shields.io/badge/dbt-171923?style=flat&logo=dbt&logoColor=C084FC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171923?style=flat&logo=postgresql&logoColor=C084FC)
-![XGBoost](https://img.shields.io/badge/XGBoost-171923?style=flat&logo=python&logoColor=C084FC)
-![pytest](https://img.shields.io/badge/pytest-171923?style=flat&logo=pytest&logoColor=C084FC)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-171923?style=flat&logo=githubactions&logoColor=C084FC)
+![Python](https://img.shields.io/badge/Python-25213A?style=flat&logo=python&logoColor=C084FC)
+![SQL](https://img.shields.io/badge/SQL-25213A?style=flat&logo=postgresql&logoColor=C084FC)
+![dbt](https://img.shields.io/badge/dbt-25213A?style=flat&logo=dbt&logoColor=C084FC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-25213A?style=flat&logo=postgresql&logoColor=C084FC)
+![XGBoost](https://img.shields.io/badge/XGBoost-25213A?style=flat&logo=python&logoColor=C084FC)
+![pytest](https://img.shields.io/badge/pytest-25213A?style=flat&logo=pytest&logoColor=C084FC)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-25213A?style=flat&logo=githubactions&logoColor=C084FC)
+
+<p>
+  <a href="https://github.com/alexandra-siakavella/stockholm-mobility-intelligence">
+    <img src="https://img.shields.io/badge/Explore_Repository-9B5DE5?style=for-the-badge&logo=github&logoColor=white" alt="Explore Stockholm Mobility Intelligence" />
+  </a>
+</p>
+
+### ◈ RevenueOS — GTM Operations
+
+An internal RevTech workspace for CRM data reconciliation, AI-assisted account intelligence, and go-to-market automation.
+
+**Focus areas**
+
+![CRM Data](https://img.shields.io/badge/CRM_Data-25213A?style=flat&logo=salesforce&logoColor=C084FC)
+![AI](https://img.shields.io/badge/AI_Assisted_Intelligence-25213A?style=flat&logo=openai&logoColor=C084FC)
+![Data Quality](https://img.shields.io/badge/Data_Quality-25213A?style=flat&logo=databricks&logoColor=C084FC)
+![Automation](https://img.shields.io/badge/GTM_Automation-25213A?style=flat&logo=githubactions&logoColor=C084FC)
+
+<p>
+  <a href="https://github.com/alexandra-siakavella/revenueos-gtm-operations">
+    <img src="https://img.shields.io/badge/Explore_Repository-9B5DE5?style=for-the-badge&logo=github&logoColor=white" alt="Explore RevenueOS GTM Operations" />
+  </a>
+</p>
+
+---
 
 ## 💜 TECH STACK
 
@@ -80,17 +99,20 @@ An end-to-end portfolio project exploring public transport data, data ingestion,
 ![Pandas](https://img.shields.io/badge/pandas-25213A?style=flat-square&logo=pandas&logoColor=C084FC)
 ![NumPy](https://img.shields.io/badge/NumPy-25213A?style=flat-square&logo=numpy&logoColor=C084FC)
 
-**Machine learning**
+**Machine learning and AI**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-25213A?style=flat-square&logo=scikitlearn&logoColor=C084FC)
 ![XGBoost](https://img.shields.io/badge/XGBoost-25213A?style=flat-square&logo=python&logoColor=C084FC)
+![LLMs](https://img.shields.io/badge/LLMs-25213A?style=flat-square&logo=openai&logoColor=C084FC)
 
-**Engineering**
+**Engineering and quality**
 
 ![Git](https://img.shields.io/badge/Git-25213A?style=flat-square&logo=git&logoColor=C084FC)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-25213A?style=flat-square&logo=githubactions&logoColor=C084FC)
 ![pytest](https://img.shields.io/badge/pytest-25213A?style=flat-square&logo=pytest&logoColor=C084FC)
 ![Docker](https://img.shields.io/badge/Docker-25213A?style=flat-square&logo=docker&logoColor=C084FC)
+
+---
 
 ## 💜 CURRENT INTERESTS
 
@@ -99,14 +121,14 @@ An end-to-end portfolio project exploring public transport data, data ingestion,
 - Data quality, testing, and reproducibility
 - Practical applications of AI and LLMs
 
-## 💜 LET'S CONNECT
-
-<p>
-  <a href="https://github.com/alexandra-siakavella">GitHub</a>
-</p>
-
 ---
 
 <p align="center">
   <i>Building reliable systems, one dataset at a time.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alexandra-siakavella?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-9B5DE5?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+  </a>
 </p>
