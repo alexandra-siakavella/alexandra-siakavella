@@ -1,6 +1,4 @@
- <p align="center">
-  <img src="images/purple-banner.png" alt="Purple neon eclipse over a mountain lake" width="100%" />
-</p>
+
 
 <h1 align="center">Alexandra Siakavella</h1>
 
